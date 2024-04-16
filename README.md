@@ -3,7 +3,7 @@ Included in this Repo, we have:
 (2) Serial terminal programs to read the output from the PM2.5 sensor,
 (3) CAD models of the PM2.5 sensor and articulating mount around which to design an enclosure.
 
-Instructions for this lab are here: https://rpubs.com/eabthomas/pm25
+Instructions for this lab are here: https://rpubs.com/TaylorSharpe/AirQuality
 
 Instructions for the microcontroller are here: https://learn.adafruit.com/introducing-itsy-bitsy-m0/using-with-arduino-ide
 
